@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ProxyNomad/ProxyNomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated cybersecurity trainee with a background in technical and operational roles, currently transitioning fully into cybersecurity. Through hands-on learning, labs, and self-study, I am building strong practical skills with a focus on web application security and ethical hacking.
 
-Here are some ideas to get you started:
+Main goal:
+To grow into a skilled penetration tester and contribute to securing digital systems in an increasingly connected world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus & Skills
+
+Web application security and ethical hacking
+
+Hands-on labs (TryHackMe, Hack The Box, PortSwigger Academy)
+
+Tools: Kali Linux, Burp Suite, Nmap, Wireshark
+
+Basic scripting: Python & Bash (Early stage)
+
+Continuous learning through training and personal projects
